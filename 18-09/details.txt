@@ -1,0 +1,4 @@
+helicopter Price 299 ~Actual Price 599
+robot Price 699 ~Actual Price 1,099
+Buy 1 Robot and get 90% Off on Helicopter
+Actual Price INR ₹ 1,699 Discounted Price ₹ 999
